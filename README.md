@@ -13,4 +13,4 @@ que você não fique sem se divertir com familiares ou amigos.
 
 ## 🛠️ Desenvolvimento
 
-O simulador está em desenvolvimento
+O simulador está em desenvolvimento.
