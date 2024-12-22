@@ -1,7 +1,7 @@
 # 🎲 SIMULADOR DE JOGAR DADO 🎲
 
 ## 📚 Bibliotecas
- - Numpy (para simular lançamentos do dado);
+ - Random (para simular lançamentos do dado);
  - Tkinter Design (para manipular as imagens e interações);
 
 ## 🎯 Objetivos
