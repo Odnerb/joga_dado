@@ -17,5 +17,6 @@ def jogar():
     print(random.randint(1, 6))
 
 
-for c in range(10):
-    jogar()
+if __name__ == '__main__':
+    """Testando aplicabilidade"""
+    lanca_dados: jogar()
