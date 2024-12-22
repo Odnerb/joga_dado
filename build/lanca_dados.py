@@ -12,9 +12,9 @@ def jogar():
     o valor em que o dado caiu para o jogador. Na função em questão, são impressos
     números de 1 a 6, sem excludentes, ou seja, o 6 não é excluido e nenhum número
     dele é retornado.
-    :return: None
+    :return: Número inteiro entre 1 e 6.
     """
-    print(random.randint(1, 6))
+    return random.randint(1, 6)
 
 
 if __name__ == '__main__':
